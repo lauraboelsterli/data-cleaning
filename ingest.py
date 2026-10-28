@@ -2,6 +2,8 @@ import pandas as pd
 
 #check if any columns have null values
 
+# making my first PR with this comment!
+
 def check_unique(df, column_name):
     return df[column_name].is_unique
 
